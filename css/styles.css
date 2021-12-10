@@ -60,3 +60,8 @@ nav {
     }
     .flex-center { align-items: center; justify-content: center;
     }
+
+.input-email { height: 66px; min-width: 500px; color: #8c8c8c; font-size: 1.1rem; padding-left: 10px;
+}
+.button-submit { height: 72px; padding: 0 1em; font-size: 1.875rem;
+}
